@@ -1,0 +1,4 @@
+Hello, world!
+Python is amzing
+my name is mihir
+welcom to python world
